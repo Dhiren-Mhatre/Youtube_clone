@@ -21,7 +21,7 @@ This project aims to recreate the main features of the YouTube.com website, incl
 
 ## Demo
 
-file:///C:/code/.vscode/html&css/youtubeHomePage/youtube.html(#) 
+file:///C:/code/.vscode/html&css/youtubeHomePage/youtube.html
 
 ## Features
 
